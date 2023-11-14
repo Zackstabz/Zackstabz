@@ -1,7 +1,6 @@
-### 👨‍🚀 Olá, me chamo Rodrigo Medeiros.
+## <font style="font-family:impact; color:green"> 👨‍🚀 Olá, me chamo Rodrigo Medeiros </font>
 🔥 Também conhecido como "Zackstabz" nas minhas atividades de transmissões ao vivo, publicações e desenvolvimento em redes sociais. </br> 
 🏆 Este espaço abriga os resultados dos meus projetos, códigos e experimentos. </br> 🔍 Sinta-se à vontade para explorar, contribuir e compartilhar insights!
-
 
 <div>
     <a href="https://github.com/zackstabz">
