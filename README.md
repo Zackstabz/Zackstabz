@@ -35,5 +35,5 @@
     <a href="https://linktr.ee/Zackstabz" target="_blank"> <img align="center" alt="Zack-Linktree" height="32px" width="112px" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rodrigo-med/" target="_blank"> <img align="center" alt="Zack-LindedIn" height="32px" width="122px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.behance.net/zackstabz" target="_blank"> <img align="center" alt="Zack-Behance" height="32px" width="115px" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/zackstabz/" target="_blank"> <img align="center" alt="Zack-Instagram" height="32px" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/zackstabz/" target="_blank"> <img align="center" alt="Zack-Instagram" height="32px" width="121px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
