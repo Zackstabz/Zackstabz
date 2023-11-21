@@ -5,7 +5,7 @@
 <div>
     <a href="https://github.com/zackstabz">
     <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=zackstabz&show_icons=true&icon_color=ffd200&rank_=true&theme=dark"width="400"/>
-    <img height="92cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackstabz&layout=donut&theme=dark"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackstabz&layout=donut&theme=dark"/>
 </div>
 <img height="10%" width="12%" src="https://komarev.com/ghpvc/?username=zackstabz&color=dc143c&style=for-the-badge&color=d6b100" alt="zackstabz"/> 
         
